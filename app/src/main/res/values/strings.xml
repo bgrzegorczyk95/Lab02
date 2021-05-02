@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="moj_tekst_jeden">Tekst jeden!</string>
+    <string name="moj_tekst_dwa">Tekst dwa!</string>
+    <string name="moj_tekst_trzy">Tekst trzy!</string>
+    <string name="moj_tekst_cztery">Tekst cztery!</string>
+    <string name="moj_tekst_piec">Tekst piec!</string>
+</resources>

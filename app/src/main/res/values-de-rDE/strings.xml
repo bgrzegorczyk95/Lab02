@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="moj_tekst_jeden">Text eins!</string>
+    <string name="moj_tekst_dwa">Text zwei!</string>
+    <string name="moj_tekst_trzy">Text drei!</string>
+    <string name="moj_tekst_cztery">Text vier!</string>
+    <string name="moj_tekst_piec">Text fünf!</string>
+</resources>
